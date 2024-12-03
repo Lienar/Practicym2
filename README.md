@@ -17,3 +17,6 @@
 ### Введите период для данных (например, '1mo' для одного месяца): 3mo
 ### График сохранен как MSFT_3mo_stock_price_chart.png
 ### Среднее значение цены закрытия 420.677426
+
+## Результат на скриншоте
+![](https://github.com/Lienar/Practicym2/blob/main/Screens/Screen1.png)
