@@ -14,7 +14,7 @@ def calculate_and_display_average_price(data):
     ''' Подсчет всех суммы всех закрытий и их числа '''
     data_average = data_all/data_number
     ''' Подсчет среднего арифметического значения '''
-    print(data_average)
+    print(f"Среднее значение цены закрытия {data_average:.6f}")
     ''' Вывод среднего арифметического значения '''
 
 
