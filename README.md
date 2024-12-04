@@ -41,12 +41,15 @@
 ### имя файла Tesla_data
 
 ## Результат на скриншоте
-![](https://github.com/Lienar/Practicym2/blob/main/Screens/Screen4.jpg)
+![](https://github.com/Lienar/Practicym2/blob/main/Screens/Screen3.jpg)
 
 ## Результат на графике
 ![](https://github.com/Lienar/Practicym2/blob/main/Screens/Task3.png)
 
 ## Скриншот части файла
+![](https://github.com/Lienar/Practicym2/blob/main/Screens/Screen3a.jpg)
 
+## Ссылка на весь файл
+### https://github.com/Lienar/Practicym2/blob/main/database/Tesla_data.csv
 ===========================================================================
 
